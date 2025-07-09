@@ -1,26 +1,45 @@
-📌 Overview
-A simple yet effective Python-based encryption tool using the classic Caesar Cipher algorithm. This command-line application allows users to securely encrypt and decrypt messages by applying a character shift.
+# 🔐 Caesar Cipher – Python Encryption Tool
 
-Perfect for beginners exploring cryptography, Python logic, and command-line interfaces.
+## 📌 Overview
 
-✨ Features
-✅ Encrypt or decrypt any text using Caesar Cipher logic
+A simple yet powerful **Python-based encryption tool** that implements the classic **Caesar Cipher algorithm**. This command-line application allows users to securely encrypt and decrypt messages by applying a shift value to letters in a message.
 
-🔄 Shift-based character transformation (customizable)
+This project is ideal for beginners learning:
+- Cryptography basics 🧠
+- Python programming fundamentals 🐍
+- Command-line interaction 💻
 
-🔡 Preserves uppercase, lowercase, and ignores non-letter characters (like punctuation)
+---
 
-💬 User-friendly prompts with input validation
+## ✨ Features
 
-🔁 Supports multiple rounds in one run (looping)
+- ✅ Encrypt or decrypt any text using Caesar Cipher logic  
+- 🔁 Customizable shift-based character transformation  
+- 🔡 Preserves uppercase, lowercase, and ignores non-letter characters (like punctuation)  
+- 💬 User-friendly prompts with input validation  
+- 🔄 Supports multiple rounds in a single run (looping)  
+- 💾 Automatically saves the result to `caesar_output.txt`  
+- 🧩 Clean, reusable function-based structure  
+- ⚙️ Built with Python 3.x  
+- 📦 No external libraries required
 
-💾 Saves output to a .txt file automatically
+---
 
-🧠 Core logic separated into reusable functions for clarity
+## 🛠 Technologies Used
 
-💻 Technologies Used
-🐍 Python 3.x
+- **Language:** Python 3.x
+- **Libraries:** None (Standard Library only)
 
-📦 No external libraries required
+---
+
+## 🚀 Usage
+
+### 📥 Prerequisites
+
+Ensure **Python 3** is installed.  
+To check:
+```bash
+python --version
+
 
 
