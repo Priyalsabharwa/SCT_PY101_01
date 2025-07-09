@@ -41,5 +41,15 @@ To check:
 ```bash
 python --version
 
+---
+🔐 Welcome to the Caesar Cipher Tool!
+📝 Enter your message: Hello SkillCraft
+🔢 Enter the shift value (number): 3
+🔄 Type 'encrypt' or 'decrypt': encrypt
+
+✅ Result (encrypted): Khoor VnlooFudiw
+💾 Output saved to 'caesar_output.txt'
+
+
 
 
