@@ -1,0 +1,4 @@
+Input Message: hello world
+Shift: 4
+Mode: decrypt
+Result: dahhk sknhz
